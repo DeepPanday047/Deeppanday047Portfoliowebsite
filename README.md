@@ -1,6 +1,6 @@
 
 <div align="right">
-  <img src="Passport_Photograph.jpg" alt="Your Image Alt Text" width="100" height="100" style="border-radius: 50%;">
+  <img src="Passport_Photograph.jpg" alt="Your Image Alt Text" width="200" height="100" style="border-radius: 50%;">
 </div>
 
 
