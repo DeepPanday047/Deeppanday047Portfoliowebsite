@@ -167,3 +167,48 @@ If you want to run this website locally on your machine, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/DeepPanday047/Deeppanday047Portfoliowebsite.github.io.git
+
+
+
+   html {
+  scroll-behavior: smooth;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation: fadeIn 1s ease-in-out;
+}
+
+.project-thumbnail:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  /* Add styling for modal window */
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+body {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+
