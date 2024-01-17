@@ -169,8 +169,7 @@ If you want to run this website locally on your machine, follow these steps:
    git clone https://github.com/DeepPanday047/Deeppanday047Portfoliowebsite.github.io.git
 
 
-
-   html {
+ html {
   scroll-behavior: smooth;
 }
 
