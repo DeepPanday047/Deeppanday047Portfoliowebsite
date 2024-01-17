@@ -41,22 +41,22 @@ During my time at IIT Madras, I acquired practical skills in various aspects of 
   - Opencv
  
 - **Key Features:**
-  1. **VGG16 Model:**
+  - **VGG16 Model:**
      Implemented transfer learning using the pre-trained VGG16 model for image recognition tasks, leveraging its deep convolutional layers.
 
-  2. **Data Preprocessing:**
+  - **Data Preprocessing:**
      Conducted thorough preprocessing of the image data, including resizing, normalization, and augmentation techniques to enhance model generalization.
 
-  3. **Fine-Tuning:**
+  - **Fine-Tuning:**
      Fine-tuned the pre-trained model to adapt it specifically for the Cat VS Dog classification task, adjusting the final layers for improved performance.
 
-  4. **Evaluation Metrics:**
+  - **Evaluation Metrics:**
      Employed relevant evaluation metrics such as accuracy, precision, recall, and F1-score to assess the model's performance on the classification task.
 
-  5. **Visualization:**
+  - **Visualization:**
      Utilized Matplotlib and Seaborn for visualizing model training and evaluation results, including accuracy and loss curves.
     
-- Link: https://github.com/DeepPanday047/DeepLearningProjects/tree/main/Cat%20VS%20Dog%20Image%20Classification%20VGG16-20231221T050057Z-001
+- Link:https://github.com/DeepPanday047/DeepLearningProjects/tree/main/Cat%20VS%20Dog%20Image%20Classification%20VGG16-20231221T050057Z-001
 
 ### Tweets Classification
 
@@ -78,7 +78,7 @@ During my time at IIT Madras, I acquired practical skills in various aspects of 
   - Visualization of results with Seaborn, Matplotlib, and WordCloud
   - Integration of Keras for deep learning tasks
 
-- Link: https://github.com/DeepPanday047/DeepLearningProjects/tree/main/Tweets%20Classification(Deep%20Learning)-20231220T042009Z-001
+- Link:https://github.com/DeepPanday047/DeepLearningProjects/tree/main/Tweets%20Classification(Deep%20Learning)-20231220T042009Z-001
 
 ### House Price Prediction
 
@@ -93,29 +93,26 @@ During my time at IIT Madras, I acquired practical skills in various aspects of 
   - TensorFlow, Keras
   
  - **Key Features:**
-  1. **Location Preference:**
+   - **Location Preference:**
      Incorporated a binary feature indicating whether the house is located in a preferred area (Yes/No) as it can significantly influence the house price.
 
-  2. **Furnishing Status:**
+  - **Furnishing Status:**
      Considered the furnishing status of the house (Fully Furnished, Semi-Furnished, Unfurnished) as a categorical feature in the prediction model.
 
-  3. **Data Preprocessing:**
+  - **Data Preprocessing:**
      Conducted data preprocessing tasks, including handling missing values, encoding categorical variables, and scaling numerical features using Min-Max scaling.
 
-  4. **Exploratory Data Analysis (EDA):**
+  - **Exploratory Data Analysis (EDA):**
      Utilized visualization libraries such as Matplotlib and Seaborn to perform EDA, gaining insights into the distribution of house prices and relationships between features.
 
-  5. **Machine Learning Models:**
+  - **Machine Learning Models:**
      Implemented a traditional Linear Regression model from scikit-learn to establish a baseline for house price prediction.
 
-  6. **Deep Learning Model:**
+  - **Deep Learning Model:**
      Leveraged TensorFlow and Keras to design and train a deep learning model, exploring neural networks for enhanced prediction accuracy.
 
-  7. **Evaluation Metrics:**
+  - **Evaluation Metrics:**
      Utilized evaluation metrics such as Mean Squared Error (MSE) to measure the performance of both the machine learning and deep learning models.
-
-  8. **GitHub Repository:**
-     Organized the project code, data, and resources in a GitHub repository, allowing for transparency and collaboration.
 
 - Link: https://github.com/DeepPanday047/DeepLearningProjects/tree/main/House%20Price%20Prediction-20231220T042404Z-001
  
@@ -132,23 +129,20 @@ During my time at IIT Madras, I acquired practical skills in various aspects of 
   - Scikit-learn
     
 - **Key Features:**
-  1. **Data Exploration:**
+  - **Data Exploration:**
      Utilized exploratory data analysis (EDA) techniques with libraries such as Matplotlib, Seaborn, and Plotly to gain insights into the Walmart sales data.
 
-  2. **Visualization:**
+  - **Visualization:**
      Created visualizations using Plotly to represent sales trends, patterns, and any other relevant information, enhancing the understanding of the dataset.
 
-  3. **Data Preprocessing:**
+  - **Data Preprocessing:**
      Conducted data preprocessing tasks, including handling missing values, encoding categorical variables, and scaling numerical features.
 
-  4. **Regression Models:**
+  - **Regression Models:**
      Implemented regression models such as Ridge and Lasso from scikit-learn for predicting sales. Explored hyperparameter tuning using GridSearchCV and RandomizedSearchCV to optimize model performance.
 
-  5. **Evaluation Metrics:**
+  - **Evaluation Metrics:**
      Utilized metrics such as Mean Squared Error (MSE) and R-squared to assess the accuracy and performance of the regression models.
-
-  6. **GitHub Repository:**
-     Organized the project code, data, and resources in a GitHub repository, facilitating collaboration and transparency.
 
 - Link: https://github.com/DeepPanday047/Walmart_Sales_Forecasting
  
