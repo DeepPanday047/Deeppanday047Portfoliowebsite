@@ -86,32 +86,32 @@ During my time at IIT Madras, I acquired practical skills in various aspects of 
   Implemented a house price prediction model to estimate the market value of houses based on various features. The project involved data preprocessing, exploratory data analysis, and the implementation of both traditional machine learning and deep learning models.
 
  - **Technologies Used:**
-  - Python
-  - NumPy, Pandas
-  - Matplotlib, Seaborn
-  - Scikit-learn
-  - TensorFlow, Keras
+   - Python
+   - NumPy, Pandas
+   - Matplotlib, Seaborn
+   - Scikit-learn
+   - TensorFlow, Keras
   
  - **Key Features:**
    - **Location Preference:**
      Incorporated a binary feature indicating whether the house is located in a preferred area (Yes/No) as it can significantly influence the house price.
 
-  - **Furnishing Status:**
+   - **Furnishing Status:**
      Considered the furnishing status of the house (Fully Furnished, Semi-Furnished, Unfurnished) as a categorical feature in the prediction model.
 
-  - **Data Preprocessing:**
+   - **Data Preprocessing:**
      Conducted data preprocessing tasks, including handling missing values, encoding categorical variables, and scaling numerical features using Min-Max scaling.
 
-  - **Exploratory Data Analysis (EDA):**
+   - **Exploratory Data Analysis (EDA):**
      Utilized visualization libraries such as Matplotlib and Seaborn to perform EDA, gaining insights into the distribution of house prices and relationships between features.
 
-  - **Machine Learning Models:**
+   - **Machine Learning Models:**
      Implemented a traditional Linear Regression model from scikit-learn to establish a baseline for house price prediction.
 
-  - **Deep Learning Model:**
+   - **Deep Learning Model:**
      Leveraged TensorFlow and Keras to design and train a deep learning model, exploring neural networks for enhanced prediction accuracy.
 
-  - **Evaluation Metrics:**
+   - **Evaluation Metrics:**
      Utilized evaluation metrics such as Mean Squared Error (MSE) to measure the performance of both the machine learning and deep learning models.
 
 - Link: https://github.com/DeepPanday047/DeepLearningProjects/tree/main/House%20Price%20Prediction-20231220T042404Z-001
